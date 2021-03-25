@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Testng Test Automation Suite]" verbose="0">
+  <parameter name="passwd" value="this4CRM."/>
+  <parameter name="email" value="uam11970@hotmail.com"/>
+  <test name="Testng Test(failed)">
+    <parameter name="passwd" value="this4CRM."/>
+    <parameter name="email" value="uam11970@hotmail.com"/>
+    <classes>
+      <class name="com.qa.tests.DataProviderTest">
+        <methods>
+          <include name="chkLoginIcon"/>
+        </methods>
+      </class> <!-- com.qa.tests.DataProviderTest -->
+      <class name="com.qa.tests.Testngstart">
+        <methods>
+          <include name="setup"/>
+          <include name="chkLoginIcon"/>
+        </methods>
+      </class> <!-- com.qa.tests.Testngstart -->
+    </classes>
+  </test> <!-- Testng Test(failed) -->
+</suite> <!-- Failed suite [Testng Test Automation Suite] -->

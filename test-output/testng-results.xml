@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-25T16:05:59 PDT" name="Testng Test Automation Suite" finished-at="2021-03-25T16:08:03 PDT" duration-ms="123909">
+    <groups>
+    </groups>
+    <test started-at="2021-03-25T16:05:59 PDT" name="Testng Test" finished-at="2021-03-25T16:08:03 PDT" duration-ms="123909">
+      <class name="com.qa.tests.DataProviderTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.tests.DataProviderTest@4b79ac84]" started-at="2021-03-25T16:06:14 PDT" name="setup" finished-at="2021-03-25T16:06:24 PDT" duration-ms="9560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="chkLoginIcon(java.lang.String, java.lang.String)[pri:0, instance:com.qa.tests.DataProviderTest@4b79ac84]" started-at="2021-03-25T16:06:24 PDT" name="chkLoginIcon" data-provider="dp" finished-at="2021-03-25T16:06:24 PDT" duration-ms="373" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Aq]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Goal]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chkLoginIcon -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.tests.DataProviderTest@4b79ac84]" started-at="2021-03-25T16:06:24 PDT" name="tearDown" finished-at="2021-03-25T16:06:25 PDT" duration-ms="1082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.tests.DataProviderTest@4b79ac84]" started-at="2021-03-25T16:06:25 PDT" name="setup" finished-at="2021-03-25T16:06:36 PDT" duration-ms="10189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="chkLoginIcon(java.lang.String, java.lang.String)[pri:0, instance:com.qa.tests.DataProviderTest@4b79ac84]" started-at="2021-03-25T16:06:36 PDT" name="chkLoginIcon" data-provider="dp" finished-at="2021-03-25T16:06:36 PDT" duration-ms="377" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Bf]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Foal]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chkLoginIcon -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.tests.DataProviderTest@4b79ac84]" started-at="2021-03-25T16:06:36 PDT" name="tearDown" finished-at="2021-03-25T16:06:37 PDT" duration-ms="962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.tests.DataProviderTest@4b79ac84]" started-at="2021-03-25T16:06:37 PDT" name="setup" finished-at="2021-03-25T16:06:46 PDT" duration-ms="8825" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="chkLoginIcon(java.lang.String, java.lang.String)[pri:0, instance:com.qa.tests.DataProviderTest@4b79ac84]" started-at="2021-03-25T16:06:46 PDT" name="chkLoginIcon" data-provider="dp" finished-at="2021-03-25T16:06:46 PDT" duration-ms="690" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Cc]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sole]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chkLoginIcon -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.tests.DataProviderTest@4b79ac84]" started-at="2021-03-25T16:06:46 PDT" name="tearDown" finished-at="2021-03-25T16:06:48 PDT" duration-ms="1572" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.tests.DataProviderTest@4b79ac84]" started-at="2021-03-25T16:06:48 PDT" name="setup" finished-at="2021-03-25T16:06:59 PDT" duration-ms="10454" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="chkLoginIcon(java.lang.String, java.lang.String)[pri:0, instance:com.qa.tests.DataProviderTest@4b79ac84]" started-at="2021-03-25T16:06:59 PDT" name="chkLoginIcon" data-provider="dp" finished-at="2021-03-25T16:06:59 PDT" duration-ms="940" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Dd]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mole]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chkLoginIcon -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.tests.DataProviderTest@4b79ac84]" started-at="2021-03-25T16:06:59 PDT" name="tearDown" finished-at="2021-03-25T16:07:01 PDT" duration-ms="1235" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.tests.DataProviderTest@4b79ac84]" started-at="2021-03-25T16:07:01 PDT" name="setup" finished-at="2021-03-25T16:07:12 PDT" duration-ms="11553" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="chkLoginIcon(java.lang.String, java.lang.String)[pri:0, instance:com.qa.tests.DataProviderTest@4b79ac84]" started-at="2021-03-25T16:07:12 PDT" name="chkLoginIcon" data-provider="dp" finished-at="2021-03-25T16:07:13 PDT" duration-ms="488" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ee]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Coal]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chkLoginIcon -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.tests.DataProviderTest@4b79ac84]" started-at="2021-03-25T16:07:13 PDT" name="tearDown" finished-at="2021-03-25T16:07:14 PDT" duration-ms="975" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.tests.DataProviderTest@4b79ac84]" started-at="2021-03-25T16:07:14 PDT" name="setup" finished-at="2021-03-25T16:07:22 PDT" duration-ms="8488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="chkLoginIcon(java.lang.String, java.lang.String)[pri:0, instance:com.qa.tests.DataProviderTest@4b79ac84]" started-at="2021-03-25T16:07:22 PDT" name="chkLoginIcon" data-provider="dp" finished-at="2021-03-25T16:07:23 PDT" duration-ms="323" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ff]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Dole]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chkLoginIcon -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.tests.DataProviderTest@4b79ac84]" started-at="2021-03-25T16:07:23 PDT" name="tearDown" finished-at="2021-03-25T16:07:23 PDT" duration-ms="910" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.tests.DataProviderTest@4b79ac84]" started-at="2021-03-25T16:07:23 PDT" name="setup" finished-at="2021-03-25T16:07:33 PDT" duration-ms="9777" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="chkLoginIcon(java.lang.String, java.lang.String)[pri:0, instance:com.qa.tests.DataProviderTest@4b79ac84]" started-at="2021-03-25T16:07:33 PDT" name="chkLoginIcon" data-provider="dp" finished-at="2021-03-25T16:07:34 PDT" duration-ms="423" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Gg]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Hole]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chkLoginIcon -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.tests.DataProviderTest@4b79ac84]" started-at="2021-03-25T16:07:34 PDT" name="tearDown" finished-at="2021-03-25T16:07:35 PDT" duration-ms="1067" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.tests.DataProviderTest@4b79ac84]" started-at="2021-03-25T16:07:35 PDT" name="setup" finished-at="2021-03-25T16:07:48 PDT" duration-ms="12807" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="chkLoginIcon(java.lang.String, java.lang.String)[pri:0, instance:com.qa.tests.DataProviderTest@4b79ac84]" started-at="2021-03-25T16:07:48 PDT" name="chkLoginIcon" data-provider="dp" finished-at="2021-03-25T16:07:48 PDT" duration-ms="403" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Bowl]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chkLoginIcon -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.tests.DataProviderTest@4b79ac84]" started-at="2021-03-25T16:07:48 PDT" name="tearDown" finished-at="2021-03-25T16:07:49 PDT" duration-ms="1008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.tests.DataProviderTest@4b79ac84]" started-at="2021-03-25T16:07:49 PDT" name="setup" finished-at="2021-03-25T16:08:02 PDT" duration-ms="13061" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="chkLoginIcon(java.lang.String, java.lang.String)[pri:0, instance:com.qa.tests.DataProviderTest@4b79ac84]" started-at="2021-03-25T16:08:02 PDT" name="chkLoginIcon" data-provider="dp" finished-at="2021-03-25T16:08:02 PDT" duration-ms="51" status="PASS">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chkLoginIcon -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.tests.DataProviderTest@4b79ac84]" started-at="2021-03-25T16:08:02 PDT" name="tearDown" finished-at="2021-03-25T16:08:03 PDT" duration-ms="914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.tests.DataProviderTest -->
+      <class name="com.qa.tests.Testngstart">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:com.qa.tests.Testngstart@52c3cb31]" started-at="2021-03-25T16:05:59 PDT" name="setup" finished-at="2021-03-25T16:06:10 PDT" duration-ms="10395" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://freecrm.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="chkLogin()[pri:0, instance:com.qa.tests.Testngstart@52c3cb31]" started-at="2021-03-25T16:06:10 PDT" name="chkLogin" finished-at="2021-03-25T16:06:13 PDT" duration-ms="3578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chkLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.tests.Testngstart@52c3cb31]" started-at="2021-03-25T16:06:13 PDT" name="tearDown" finished-at="2021-03-25T16:06:13 PDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.tests.Testngstart -->
+    </test> <!-- Testng Test -->
+  </suite> <!-- Testng Test Automation Suite -->
+</testng-results>

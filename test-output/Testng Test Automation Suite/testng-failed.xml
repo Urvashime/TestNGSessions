@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Testng Test Automation Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Testng Test(failed)">
+    <parameter name="url" value="https://freecrm.com"/>
+    <classes>
+      <class name="com.qa.tests.DataProviderTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="chkLoginIcon"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.qa.tests.DataProviderTest -->
+    </classes>
+  </test> <!-- Testng Test(failed) -->
+</suite> <!-- Failed suite [Testng Test Automation Suite] -->
